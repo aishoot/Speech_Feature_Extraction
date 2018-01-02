@@ -1,5 +1,5 @@
 # Speech Feature Extraction
-Speech or audio feature extraction.
+Speech preprocessing for Machine Learning.
 
 ### Free speech datasets
 * [OpenLSR](http://www.openslr.org): OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition.
@@ -8,7 +8,7 @@ Speech or audio feature extraction.
 * [Mozilla](https://medium.com/mozilla-open-innovation/sharing-our-common-voice-mozilla-releases-second-largest-public-voice-data-set-e88f7d6b7666): Mozilla Releases the world's Second Largest Public Voice Data Set on Nov 29th, 2017.
 
 ### File description
-* 01-FeatureExtraction: Speech preprocessing for Machine Learning. "Codes" is from [python_speech_features](https://github.com/jameslyons/python_speech_features) and you can directly run "example.py" with Python3. "Codes-Implemention2" is another implemention of speech feature extraction and from [speech_feature_extractor](https://github.com/ZhihaoDU/speech_feature_extractor).
+"Codes" is from [python_speech_features](https://github.com/jameslyons/python_speech_features) and you can directly run "example.py" with Python3. "Codes-Implemention2" is another implemention of speech feature extraction and from [speech_feature_extractor](https://github.com/ZhihaoDU/speech_feature_extractor).
 
 ### Learning websites:
 * http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
