@@ -11,10 +11,10 @@ Speech preprocessing for Machine Learning.
 Codes are from [python_speech_features](https://github.com/jameslyons/python_speech_features) and you can directly run "example.py" with Python3.
 
 ### Learning websites:
-* http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
-* https://github.com/jameslyons/python_speech_features
-* https://github.com/ZhihaoDU/speech_feature_extractor
-* http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+* [speech-processing-for-machine-learning](http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
+* [python_speech_features](https://github.com/jameslyons/python_speech_features)
+* [speech_feature_extractor](https://github.com/ZhihaoDU/speech_feature_extractor)
+* [guide-mel-frequency-cepstral-coefficients-mfccs](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)
 
 
 _More codes will be uploaded soon!_
