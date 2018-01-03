@@ -14,3 +14,6 @@ Codes are from [python_speech_features](https://github.com/jameslyons/python_spe
 * http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
 * https://github.com/jameslyons/python_speech_features
 * https://github.com/ZhihaoDU/speech_feature_extractor
+
+
+** _More codes will be uploaded soon!_**
