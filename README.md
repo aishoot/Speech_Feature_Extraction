@@ -8,7 +8,7 @@ Speech preprocessing for Machine Learning.
 * [Mozilla](https://medium.com/mozilla-open-innovation/sharing-our-common-voice-mozilla-releases-second-largest-public-voice-data-set-e88f7d6b7666): Mozilla Releases the world's Second Largest Public Voice Data Set on Nov 29th, 2017.
 
 ### File description
-Codes are from [python_speech_features](https://github.com/jameslyons/python_speech_features) and you can run "example.py" with Python3 or directly run the file "FeatureExtraction.ipynb".
+Codes are from [python_speech_features](https://github.com/jameslyons/python_speech_features). You can run "example.py" with Python3 or directly run the file "FeatureExtraction.ipynb".
 
 ### Learning websites:
 * [speech-processing-for-machine-learning](http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
