@@ -19,5 +19,4 @@ Speech preprocessing for Machine Learning.
 * http://stevemorphet.weebly.com/speech-and-audio-processing <br>
 **MFCC**:
 * http://blog.csdn.net/fengzhonghen/article/details/51722555
-* http://blog.csdn.net/zouxy09/article/details/9156785
 * http://blog.csdn.net/xmdxcsj/article/details/51228791
