@@ -16,7 +16,7 @@ Speech preprocessing for Machine Learning.
 * https://github.com/jameslyons/python_speech_features
 * https://github.com/ZhihaoDU/speech_feature_extractor
 * http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
-* http://stevemorphet.weebly.com/speech-and-audio-processing
+* http://stevemorphet.weebly.com/speech-and-audio-processing <br>
 **MFCC**:
 * http://blog.csdn.net/fengzhonghen/article/details/51722555
 * http://blog.csdn.net/zouxy09/article/details/9156785
