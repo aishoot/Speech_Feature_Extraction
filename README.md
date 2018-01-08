@@ -1,5 +1,6 @@
 # Speech Feature Extraction
-Speech preprocessing for Machine Learning.
+Speech preprocessing for Machine Learning.<br><br>
+![](/SpeechFeature.jpg)
 
 ### Free speech datasets
 * [OpenLSR](http://www.openslr.org): OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition.
