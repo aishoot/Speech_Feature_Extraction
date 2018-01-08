@@ -1,6 +1,6 @@
 # Speech Feature Extraction
 Speech preprocessing for Machine Learning.<br><br>
-![](/SpeechFeature.jpg)
+![](/speech1.jpg)
 
 ### Free speech datasets
 * [OpenLSR](http://www.openslr.org): OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition.
@@ -17,7 +17,6 @@ Speech preprocessing for Machine Learning.<br><br>
 * https://github.com/jameslyons/python_speech_features
 * https://github.com/ZhihaoDU/speech_feature_extractor
 * http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
-* http://stevemorphet.weebly.com/speech-and-audio-processing <br>
-**MFCC** (In Chinese):
-* http://blog.csdn.net/zouxy09/article/details/9156785
-* http://blog.csdn.net/xmdxcsj/article/details/51228791
+* http://stevemorphet.weebly.com/speech-and-audio-processing
+* http://blog.csdn.net/zouxy09/article/details/9156785 (MFCC feature, In Chinese)
+* http://blog.csdn.net/xmdxcsj/article/details/51228791 (MFCC feature, In Chinese)
