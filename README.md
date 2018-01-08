@@ -11,6 +11,10 @@ The repository describes the feature extraction methods for speech signals.<br><
 ## File description
 * MFCC.py, MFCCTest.py: Compute the MFCC feature. Codes are from [python_speech_features](https://github.com/jameslyons/python_speech_features).
 * [FeatureExtraction.ipynb](/FeatureExtraction.ipynb): Speech preprocessing, including loading data, pre-emphasis, framing, window, Fourier-transform, power spectrum, filter banks, mfccs and mean normalization.
+* Volume:
+* Zero-Crossing-Rate:
+* Pitch:
+* Timbre:
 
 ## Requirements
 Anaconda3 (Python3.x)
