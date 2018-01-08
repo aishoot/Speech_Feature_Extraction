@@ -20,3 +20,4 @@ The repository describes the feature extraction methods for speech signals espec
 * http://stevemorphet.weebly.com/speech-and-audio-processing
 * http://blog.csdn.net/zouxy09/article/details/9156785
 * http://blog.csdn.net/xmdxcsj/article/details/51228791
+* http://ibillxia.github.io/blog/archives/
