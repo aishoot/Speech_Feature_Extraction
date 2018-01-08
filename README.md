@@ -1,5 +1,5 @@
 # Speech Feature Extraction
-Speech preprocessing for Machine Learning.<br><br>
+The repository describes the feature extraction methods for speech signals especially the MFCC feature.<br><br>
 ![](/speech1.jpg)
 
 ### Free speech datasets
