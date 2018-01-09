@@ -14,8 +14,9 @@ The repository describes the feature extraction methods for speech signals.<br><
   * FeatureExtraction.ipynb: Speech preprocessing, including loading data, pre-emphasis, framing, window, Fourier-transform, power spectrum, filter banks, mfccs and mean normalization.
 * Volume: volume calculation<br>
 ![](/Volume/VolumeTest.png)
-* Zero-Crossing-Rate: Zero-Crossing Rate calculation.
-* Pitch: Pitch calculation.
+* ZeroCR: Zero-Crossing Rate calculation.<br>
+![](/Volume/ZeroCR.png)
+* Pitch: Pitch calculation and pitch tracking.
 * Timbre:
 
 ## Requirements
