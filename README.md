@@ -19,7 +19,7 @@ The repository describes the feature extraction methods for speech signals.<br><
 ## Requirements
 Anaconda3 (Python3.x)
 
-## Learning websites:
+## Learning Websites & Code Source
 * http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
 * https://github.com/jameslyons/python_speech_features
 * https://github.com/ZhihaoDU/speech_feature_extractor
