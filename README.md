@@ -23,11 +23,12 @@ Anaconda3 (Python3.x)
 * http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
 * https://github.com/jameslyons/python_speech_features
 * https://github.com/ZhihaoDU/speech_feature_extractor
-* http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
-* http://stevemorphet.weebly.com/speech-and-audio-processing
-* http://blog.csdn.net/zouxy09/article/details/9156785
-* http://blog.csdn.net/xmdxcsj/article/details/51228791
 * http://ibillxia.github.io/blog/archives/
+* http://stevemorphet.weebly.com/speech-and-audio-processing
+* MFCC
+  * http://blog.csdn.net/zouxy09/article/details/9156785
+  * http://blog.csdn.net/xmdxcsj/article/details/51228791
+  * http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
 * Git tutorial
   * https://jingyan.baidu.com/article/2fb0ba4091a21c00f2ec5fbf.html
   * https://jingyan.baidu.com/article/fec4bce2285b56f2618d8bdc.html
