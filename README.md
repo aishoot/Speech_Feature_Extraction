@@ -1,6 +1,5 @@
 # Speech Feature Extraction
-The repository describes the feature extraction methods for speech signals.<br><br>
-![](/speech1.jpg)
+The repository describes the feature extraction methods for speech signals.
 
 ## Free speech datasets
 * [OpenLSR](http://www.openslr.org): OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition.
