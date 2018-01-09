@@ -17,7 +17,7 @@ The repository describes the feature extraction methods for speech signals.<br><
 * ZeroCR: Zero-Crossing Rate calculation.<br>
 ![](/Volume/ZeroCR.png)
 * Pitch: Pitch calculation and pitch tracking.
-* Timbre: spectral analysis
+* Timbre: spectral analysis.
 * VAD: EPD (End-Point Detection), or Speech Detection, or VAD(Voice Activity Detection)
 * Drawing Spectrogram.
 
