@@ -15,7 +15,7 @@ The repository describes the feature extraction methods for speech signals.<br><
 * Volume: volume calculation<br>
 ![](/Volume/VolumeTest.png)
 * Zero-Crossing-Rate: Zero-Crossing Rate calculation.
-* Pitch:
+* Pitch: Pitch calculation.
 * Timbre:
 
 ## Requirements
