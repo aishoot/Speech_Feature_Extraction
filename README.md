@@ -9,17 +9,21 @@ The repository describes the feature extraction methods for speech signals.<br><
 * [Mozilla](https://medium.com/mozilla-open-innovation/sharing-our-common-voice-mozilla-releases-second-largest-public-voice-data-set-e88f7d6b7666): Mozilla Releases the world's Second Largest Public Voice Data Set on Nov 29th, 2017.
 
 ## File description
-* MFCC: Mel-frequency cepstral coefficients calculation
+* MFCC: Mel-frequency cepstral coefficients calculation.
   * MFCC.py, MFCCTest.py: Compute the MFCC feature.
   * FeatureExtraction.ipynb: Speech preprocessing, including loading data, pre-emphasis, framing, window, Fourier-transform, power spectrum, filter banks, mfccs and mean normalization.
-* Volume: volume calculation<br>
+* Volume: volume calculation.<br>
 ![](/Volume/VolumeTest.png)
 * ZeroCR: Zero-Crossing Rate calculation.<br>
-![](/Volume/ZeroCR.png)
-* Pitch: Pitch calculation and pitch tracking.
-* Timbre: spectral analysis.
-* VAD: EPD (End-Point Detection), or Speech Detection, or VAD(Voice Activity Detection)
-* Drawing Spectrogram.
+![](/ZeroCR/ZeroCR.png)
+* Pitch: Pitch calculation and pitch tracking.<br>
+![](/Pitch/pitch.png)
+![](/Pitch/pitchTrack.png)
+* Timbre: spectrogram drawing.<br>
+![](/Timbre/spectrogram.png)
+* VAD: EPD (End-Point Detection), or Speech Detection, or VAD(Voice Activity Detection).<br>
+![](/VAD/VAD01.png)
+![](/VAD/VAD02.png)
 
 ## Requirements
 [Anaconda3](https://www.anaconda.com/) (Python3.x)
