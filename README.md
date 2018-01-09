@@ -28,6 +28,9 @@ Anaconda3 (Python3.x)
 * http://blog.csdn.net/zouxy09/article/details/9156785
 * http://blog.csdn.net/xmdxcsj/article/details/51228791
 * http://ibillxia.github.io/blog/archives/
+* Git tutorial
+  * https://jingyan.baidu.com/article/2fb0ba4091a21c00f2ec5fbf.html
+  * https://jingyan.baidu.com/article/fec4bce2285b56f2618d8bdc.html
 
 
 *More codes will be uploaded soon!*
