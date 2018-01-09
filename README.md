@@ -9,10 +9,11 @@ The repository describes the feature extraction methods for speech signals.<br><
 * [Mozilla](https://medium.com/mozilla-open-innovation/sharing-our-common-voice-mozilla-releases-second-largest-public-voice-data-set-e88f7d6b7666): Mozilla Releases the world's Second Largest Public Voice Data Set on Nov 29th, 2017.
 
 ## File description
-* MFCC: the Mel-frequency cepstral coefficients calculation
+* MFCC: Mel-frequency cepstral coefficients calculation
   * MFCC.py, MFCCTest.py: Compute the MFCC feature.
   * FeatureExtraction.ipynb: Speech preprocessing, including loading data, pre-emphasis, framing, window, Fourier-transform, power spectrum, filter banks, mfccs and mean normalization.
-* Volume: the volume calculation
+* Volume: volume calculation<br>
+![](/Volume/VolumeTest.png)
 * Zero-Crossing-Rate: Zero-Crossing Rate calculation.
 * Pitch:
 * Timbre:
