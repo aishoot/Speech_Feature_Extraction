@@ -29,6 +29,7 @@ The repository describes the feature extraction methods for speech signals.
 
 ## References & Code source
 * http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
+* https://github.com/wiseman/py-webrtcvad
 * https://github.com/jameslyons/python_speech_features
 * https://github.com/ZhihaoDU/speech_feature_extractor
 * http://ibillxia.github.io/blog/archives/
