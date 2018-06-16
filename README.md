@@ -9,6 +9,7 @@ The repository describes the feature extraction methods for speech signals.
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 
 ## File description
+* feature_extraction_functions.py: a set of feature extraction functions.
 * MFCC: Mel-frequency cepstral coefficients calculation.
   * MFCC.py, MFCCTest.py: Compute the MFCC feature.
   * FeatureExtraction.ipynb: Speech preprocessing, including loading data, pre-emphasis, framing, window, Fourier-transform, power spectrum, filter banks, mfccs and mean normalization.
