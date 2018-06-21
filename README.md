@@ -4,8 +4,8 @@ The repository describes the feature extraction methods for speech signals.
 ## Free speech datasets
 * [OpenLSR](http://www.openslr.org): OpenSLR is a site devoted to hosting speech and language resources, such as training corpora for speech recognition, and software related to speech recognition.
 * [VoxForge](http://www.voxforge.org/): VoxForge is now mirroring the LT and the Teleccoperation group Open Speech Data Corpus for German with 35 hours of speech from about 180 speakers. 
-* TIMIT: The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus.
-* [Mozilla](https://medium.com/mozilla-open-innovation/sharing-our-common-voice-mozilla-releases-second-largest-public-voice-data-set-e88f7d6b7666): Mozilla Releases the world's Second Largest Public Voice Data Set on Nov 29th, 2017.
+* [TIMIT](https://catalog.ldc.upenn.edu/ldc93s1): The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus.
+* [Mozilla Speech](https://medium.com/mozilla-open-innovation/sharing-our-common-voice-mozilla-releases-second-largest-public-voice-data-set-e88f7d6b7666): Mozilla Releases the world's Second Largest Public Voice Data Set on Nov 29th, 2017.
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 
 ## File description
