@@ -43,3 +43,4 @@ The repository describes the feature extraction methods for speech signals.
 * Git tutorial
   * https://jingyan.baidu.com/article/2fb0ba4091a21c00f2ec5fbf.html
   * https://jingyan.baidu.com/article/fec4bce2285b56f2618d8bdc.html
+* [Linux下CMake生成和调用动态库](https://blog.csdn.net/a435262767/article/details/91379359)
